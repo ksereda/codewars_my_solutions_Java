@@ -1,1 +1,3 @@
-# codewars_my_solutions_Java
+# codewars.com
+
+My solutions: Java
